@@ -1,7 +1,7 @@
 ## About me
-I am Akshay R Kulkarni, a Project Assistant at the [Video Analytics Lab](https://val.cds.iisc.ac.in/), [IISc, Bangalore](https://iisc.ac.in/) under the supervision of [Dr. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) and his Ph.D. student, [Jogendra Nath Kundu](https://sites.google.com/view/jogendra/). My major research interests are in the **applications of Deep Learning to Computer Vision and Robotics** and my recent work has focused on Domain Adaptation for Semantic Segmentation.
+I am Akshay R Kulkarni, an MS CS student at University of California San Diego (UCSD) since Sept. 2022. My major research interests are in the **applications of Deep Learning to Computer Vision and Robotics**.
 
-I will be pursuing MS in CS at Univ. of California, San Diego (UCSD) starting in Fall 2022.
+Prior to this, I was a Project Assistant at the [Video Analytics Lab](https://val.cds.iisc.ac.in/), [IISc, Bangalore](https://iisc.ac.in/) working with [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) and his Ph.D. student, [Jogendra Nath Kundu](https://sites.google.com/view/jogendra/). My work here focused on Domain Adaptation for Object Recognition and Semantic Segmentation.
 
 I completed my undergraduate from [Visvesvaraya National Institute of Technology, Nagpur](http://vnit.ac.in/) in 2020, where I was a core coordinator at [IvLabs (Robotics Lab)](http://www.ivlabs.in/). I also served as it's Chairman and as the Secretary for the IEEE VNIT Student Branch, both during 2018-19.
 
