@@ -1,5 +1,8 @@
 ## About me
-I am Akshay R Kulkarni, an MS CS student at University of California San Diego (UCSD) since Sept. 2022. My major research interests are in the **applications of Deep Learning to Computer Vision and Robotics**.
+I am Akshay R Kulkarni, an MS CS student at University of California San Diego (UCSD) since Sept. 2022 where I am working with [Prof. Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/) on Adversarial Robustness for my MS thesis.
+My major research interests are in **Deep Learning for Computer Vision**.
+
+During Summer 2023, I worked as a Research Intern at Sony R&D Center, Tokyo on Labeled Dataset Generation using Generative AI models (vague description due to NDA).
 
 Prior to this, I was a Project Assistant at the [Video Analytics Lab](https://val.cds.iisc.ac.in/), [IISc, Bangalore](https://iisc.ac.in/) working with [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) and his Ph.D. student, [Jogendra Nath Kundu](https://sites.google.com/view/jogendra/). My work here focused on Domain Adaptation for Object Recognition and Semantic Segmentation.
 
